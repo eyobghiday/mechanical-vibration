@@ -1,4 +1,4 @@
-# mechanical-vibration
+# Vbrational Mode Shapes of a String
 Consider the equation of motion of a simple pendulum:
 Let’s say the equilibrium configurations are given by
 (a) Show that the two distinct equilibrium configurations for the pendulum are
