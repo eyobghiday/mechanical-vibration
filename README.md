@@ -7,7 +7,7 @@ This repo is a project for the analysis, study and design of mechanical vibratio
 
 The K matrix is a mathematical representation of the manner in which the springs of this system
 are connected, and how they respond to each other. K for the system in Figure1 is shown in equation two, which is also symmetric.
-![5 Block Vibration Setup](src/fig1.png){width=250}
+<!-- ![5 Block Vibration Setup](src/fig1.png){width=250} -->
 Fundamental formula to the solution (simplified) from our class is given by the fourier series and green's functions as:
 $$ F(t) = \sum_{n=-N}^N c_p \exp \left( \frac{i 2\pi n t}{T_0}\right) $$
 where 
@@ -16,7 +16,7 @@ and
 $$ x(t) = \sum_{n=-N}^N C_p|G_p|\exp \left( \frac{i 2\pi n t}{T_0}-\phi_p\right) $$ 
 
 Now consider a system of coupled oscillators with masses defined in Figure1, as well as the coupling springs defined. 
-![](src/m5_n.png)
+![Set up](src/m5_n.png){width=250}
 We have five carts and five springs
 Solving for the normal modes and normal frequencies of this system is best accomplished using matrix methods, which is shown in the following equations. The mass matrix (M) of the system is shown in equation one. This matrix is symmetric and diagonal.
 
