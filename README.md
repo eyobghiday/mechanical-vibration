@@ -27,7 +27,6 @@ where
 <img src="https://i.upmath.me/svg/%20c_n%20%3D%20%5Cfrac%7B1%7D%7BT_0%7D%20%5Cint_%7B0%7D%5E%7B2%7D%20f(t)%20%5Cexp%20%5Cleft(%20%5Cfrac%7B-i%202%5Cpi%20n%20t%7D%7BT_0%7D%5Cright)%20%5Cmathrm%7Bd%7Dt%20" alt=" c_n = \frac{1}{T_0} \int_{0}^{2} f(t) \exp \left( \frac{-i 2\pi n t}{T_0}\right) \mathrm{d}t " />
 </br> 
 and 
-
 <img src="https://i.upmath.me/svg/%20x(t)%20%3D%20%5Csum_%7Bn%3D-N%7D%5EN%20C_n%7CG_n%7C%5Cexp%20%5Cleft(%20%5Cfrac%7Bi%202%5Cpi%20n%20t%7D%7BT_0%7D-%5Cphi_p%5Cright)%20" alt=" x(t) = \sum_{n=-N}^N C_n|G_n|\exp \left( \frac{i 2\pi n t}{T_0}-\phi_p\right) " /> 
 </div>
 Now consider a system of coupled oscillators with masses defined in the figure below, as well as the coupling springs defined. 
