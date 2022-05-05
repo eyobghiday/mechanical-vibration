@@ -7,7 +7,7 @@ This repo is a project for the analysis, study and design of mechanical vibratio
 
 The K matrix is a mathematical representation of the manner in which the springs of this system
 are connected, and how they respond to each other. K for the system in Figure1 is shown in equation two, which is also symmetric.
-![](src/fig1.png)
+![](src/fig1.png | width=400)
 Fundamental formula to the solution (simplified) from our class is given by the fourier series and green's functions as:
 $$ F(t) = \sum_{n=-N}^N c_p \exp \left( \frac{i 2\pi n t}{T_0}\right) $$
 where 
