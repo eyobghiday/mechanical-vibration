@@ -9,8 +9,8 @@ unstable equilibrium.
 Q2. Consider the general solution of given by . Consider the initial conditions   .   are given by
 Plot the following for an appropriately long time period, and comment on the dynamics revealed in each plot. 
 
-![](src/1.png)
-![](src/2.png)
+![](1.png)
+![](2.png)
 
 Note that this is the case when there is no damping term in
 the equation.
