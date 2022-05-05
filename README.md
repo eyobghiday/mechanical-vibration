@@ -9,7 +9,7 @@ The K matrix is a mathematical representation of the manner in which the springs
 are connected, and how they respond to each other. K for the system in Figure1 is shown in equation two, which is also symmetric.
 <!-- ![5 Block Vibration Setup](src/fig1.png){width=250} -->
 <img
-  src="src/fig1.png"
+  src="src/beam.png"
   alt="Alt text"
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
