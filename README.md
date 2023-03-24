@@ -1,7 +1,8 @@
 # Mechanical Vibration
 This repo is a project for the analysis, study and design of mechanical vibrations for my MMAE-535 Vibrations course.  The topics include one dimensional motion of elastic continuum, traveling waves, standing waves, energy flux, and the use of Fourier integrals. Problem statement in dynamic elasticity, uniqueness of solution, basic solution of elastodynamics, integral representations, steady state time harmonic response. Elastic waves in unbounded medium, plane harmonic waves in elastic half-spaces, reflection and transmission at interfaces, Rayleigh waves, Stoneley waves, slowness diagrams, dispersive waves in waveguides and phononic composites, thermal effects and effects of viscoelasticity, anisotropy, and nonlinearity on wave propagation.
 
-The codes I wrote here are purely for eucational purposes, so please take caution when you refer to them. And if you have questions. let me know. 
+### Questions?
+The codes I wrote here are purely for eucational purposes, so please take caution when you refer to them. For questions, comments, edit and changes, please contact me. Or tag my username <b> @eyobghiday </b> in the code.
 
 ## FEM Analysis for Complex Structures
 Each component of the platform has been fundamentally designed for parallel processing. Executing a script in parallel is as simple as calling mpirun filename. This framework allows for rapid prototyping of finite element formulations and solvers on laptops and workstations, and the same code may then be deployed on large high-performance computers.
