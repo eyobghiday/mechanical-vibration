@@ -1,14 +1,8 @@
 # Mechanical Vibration
 This repo is a project for the analysis, study and design of mechanical vibrations.  The topics include one dimensional motion of elastic continuum, traveling waves, standing waves, energy flux, and the use of Fourier integrals. Problem statement in dynamic elasticity, uniqueness of solution, basic solution of elastodynamics, integral representations, steady state time harmonic response. Elastic waves in unbounded medium, plane harmonic waves in elastic half-spaces, reflection and transmission at interfaces, Rayleigh waves, Stoneley waves, slowness diagrams, dispersive waves in waveguides and phononic composites, thermal effects and effects of viscoelasticity, anisotropy, and nonlinearity on wave propagation.
 
-## FEM Analysis using FEniCSx for Complex Structures FEM
-Each component of the FEniCSx platform has been fundamentally designed for parallel processing. Executing a FEniCSx script in parallel is as simple as calling mpirun filename. This framework allows for rapid prototyping of finite element formulations and solvers on laptops and workstations, and the same code may then be deployed on large high-performance computers.
-
-<div class="box" align="center">
-        <img src="src/beam.png" align="center" width="400" height="250"/>
-        <img src="src/shell.png" align="center" width="330" height="300"/>
-<br>
-</div>
+## FEM Analysis for Complex Structures FEM
+Each component of the platform has been fundamentally designed for parallel processing. Executing a script in parallel is as simple as calling mpirun filename. This framework allows for rapid prototyping of finite element formulations and solvers on laptops and workstations, and the same code may then be deployed on large high-performance computers.
 
 ## Multi Degree of Freedom Vibration
 ## Theory
